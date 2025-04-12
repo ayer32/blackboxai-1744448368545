@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotoGPManagement.API", "MotoGPManagement.API\MotoGPManagement.API.csproj", "{01E95026-67D1-41FB-8137-8517ADCB86A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotoGPManagement.Core", "MotoGPManagement.Core\MotoGPManagement.Core.csproj", "{96D9F719-600C-49C2-9904-6DA299195352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotoGPManagement.Infrastructure", "MotoGPManagement.Infrastructure\MotoGPManagement.Infrastructure.csproj", "{8E378E7B-46E1-4504-B4DB-6583EC2AFD4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotoGPManagement.Application", "MotoGPManagement.Application\MotoGPManagement.Application.csproj", "{E20C9049-4521-4A72-9959-9A0E57AFF95A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E95026-67D1-41FB-8137-8517ADCB86A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E95026-67D1-41FB-8137-8517ADCB86A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E95026-67D1-41FB-8137-8517ADCB86A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E95026-67D1-41FB-8137-8517ADCB86A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D9F719-600C-49C2-9904-6DA299195352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D9F719-600C-49C2-9904-6DA299195352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D9F719-600C-49C2-9904-6DA299195352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D9F719-600C-49C2-9904-6DA299195352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E378E7B-46E1-4504-B4DB-6583EC2AFD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E378E7B-46E1-4504-B4DB-6583EC2AFD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E378E7B-46E1-4504-B4DB-6583EC2AFD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E378E7B-46E1-4504-B4DB-6583EC2AFD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20C9049-4521-4A72-9959-9A0E57AFF95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20C9049-4521-4A72-9959-9A0E57AFF95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20C9049-4521-4A72-9959-9A0E57AFF95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20C9049-4521-4A72-9959-9A0E57AFF95A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
